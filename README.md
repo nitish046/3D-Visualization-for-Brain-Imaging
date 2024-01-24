@@ -7,7 +7,7 @@
 
 3 Optimized the segmentation process through sophisticated filtering mechanisms, including size and roundness criteria, addressing complex anatomical variations, and contributing to      the improvement of automated brain tumor segmentation techniques
 
-# EXECUTING THE PROJECT
+# EXECUTION OF THE PROJECT
 
 Before running the files, we are required to install few dependencies.
 
